@@ -17,30 +17,19 @@
 
 ## 📂 Estructura del Repositorio
 
-- **📚 Bibliografía**
-  - Libros y recursos de lectura provistos por la cátedra
-- **🏫 Material Cátedra**
-  - Información académica, horarios, etc
-- **📝 Material Práctico**
-  - Trabajos Prácticos Evaluables, No Evaluables y Guías
-  - **Evaluables**
-    - Trabajos Prácticos Evaluables
-  - **Guías**
-    - Guías de trabajos prácticos
-  - **No Evaluables**
-    - Trabajos Prácticos No Evaluables
-  - **Templates**
-    - Templates para parciales y TPs
-- **🧠 Material Teórico**
-  - Presentaciones de Clases, Resúmenes y Trabajos de Investigación Grupal
-  - **Presentaciones de Clases**
-    - Presentaciones de clases
-  - **Trabajos de Investigación Grupal**
-    - Trabajos de investigación grupal
-  - **Resúmenes**
-    - Resúmenes
-- **📜 README.md**
-  - Definición del repo e información general
+.
+├── Bibliografía
+│ ├── Material Cátedra
+│ ├── Material Práctico
+│ │ ├── Evaluables
+│ │ └── No Evaluables
+│ ├── Guías
+│ └── Templates
+├── Material Teórico
+│ ├── Presentaciones de Clases
+│ ├── Trabajos de Investigación Grupal
+│ └── Resúmenes
+└── README.md
 
 
 ---

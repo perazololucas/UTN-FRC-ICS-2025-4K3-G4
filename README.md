@@ -18,7 +18,7 @@
 ## 📂 Estructura del Repositorio
 
     .
-    ├── Bibliografía                         # Libros y recursos de lectura provistos por la cátedra
+    ├── Matierial Bibliográfico              # Libros y recursos de lectura provistos por la cátedra
     │
     ├── Material Cátedra                     # Información académica, horarios, etc
     │

@@ -18,18 +18,18 @@
 ## 📂 Estructura del Repositorio
 
     .
-    ├── Bibliografía                        # Libros y recursos de lectura provistos por la cátedra
+    ├── Bibliografía                         # Libros y recursos de lectura provistos por la cátedra
     │
-    ├── Material Cátedra                    # Información académica, horarios, etc
+    ├── Material Cátedra                     # Información académica, horarios, etc
     │
     ├── Material Práctico                    # Trabajos Prácticos Evaluables, No Evaluables y Guías
-    │   ├── Evaluables                      # Trabajos Prácticos Evaluables
+    │   ├── Evaluables                       # Trabajos Prácticos Evaluables
     │   ├── Guías                            # Guías de trabajos prácticos
     │   ├── No Evaluables                    # Trabajos Prácticos No Evaluables
     │   └── Templates                        # Templates para parciales y TPs
     │
     ├── Material Teórico                     # Presentaciones de Clases, Resúmenes y Trabajos de Investigación Grupal
-    │   ├── Presentaciones de Clases        # Presentaciones de clases
+    │   ├── Presentaciones de Clases         # Presentaciones de clases
     │   ├── Trabajos de Investigación Grupal # Trabajos de investigación grupal
     │   └── Resúmenes                        # Resúmenes
     │
@@ -74,7 +74,7 @@
 
 
 🔖 **Formato de Identificación de Líneas Base**:  
-LB-G04-<NroLineaBase>
+LB-G04-`<NroLineaBase>`
 
 
 Donde `<NroLineaBase>` es un número entero que comienza en 1 y se incrementa en una unidad.

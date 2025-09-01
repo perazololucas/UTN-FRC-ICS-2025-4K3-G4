@@ -18,7 +18,7 @@
 ## 📂 Estructura del Repositorio
 
     .
-    ├── Matierial Bibliográfico              # Libros y recursos de lectura provistos por la cátedra
+    ├── Material Bibliográfico              # Libros y recursos de lectura provistos por la cátedra
     │
     ├── Material Cátedra                     # Información académica, horarios, etc
     │
@@ -42,7 +42,7 @@
 
 | Ítem                                      | Regla de Nombrado                                        | Ubicación Física                                           |
 |-------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|   
-| **Libros**                                | `Libro-<Nombre>.<Extension>`                             | `/Bibliografía`                                            |
+| **Libros**                                | `Libro-<Nombre>.<Extension>`                             | `/Material Bibliográfico`                                            |
 | **Material Cátedra**                      | `Cátedra-<Nombre>.<Extension>`                           | `/Material Cátedra`                                        |
 | **TPs Evaluables**                        | `MP-Evaluable-TP<NroTP>-<Nombre>.<Extension>`            | `/Material Práctico/Evaluables`                            |
 | **TPs No Evaluables**                     | `MP-No-Evaluable-TP<NroTP>-<Nombre>.<Extension>`         | `/Material Práctico/No Evaluables`                         |

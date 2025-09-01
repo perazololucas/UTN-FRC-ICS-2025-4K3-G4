@@ -80,6 +80,7 @@ LB-G04-`<NroLineaBase>`
 Donde `<NroLineaBase>` es un número entero que comienza en 1 y se incrementa en una unidad.
 
 📅 **Criterio de revisión**:  
-Las líneas base se revisan el día de entrega de un a un **TP Evaluable** o un **TP No Evaluable**, y en esa instancia se define la creación de una nueva.
+Las líneas base se revisan el día de entrega de un TP Evaluable, y en esa instancia se define la
+creación de una nueva línea base.
 
 ---

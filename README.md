@@ -71,6 +71,7 @@
 | Línea Base   | Fecha      | Descripción                          |
 |--------------|------------|--------------------------------------|
 | **LB-G04-1** | 03/09/2025 | Entrega de TP4 - Herramientas de SCM |
+| **LB-G04-2** | 25/09/2025 | Entrega de TP8 - SCRUM |
 
 
 🔖 **Formato de Identificación de Líneas Base**:  

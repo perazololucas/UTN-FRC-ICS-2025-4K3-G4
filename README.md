@@ -72,7 +72,7 @@
 |--------------|------------|--------------------------------------|
 | **LB-G04-1** | 03/09/2025 | Entrega de TP4 - Herramientas de SCM |
 | **LB-G04-2** | 25/09/2025 | Entrega de TP7 - SCRUM |
-| **LB-G04-3** | 25/09/2025 | Entrega de TP6 - TDD |
+| **LB-G04-3** | 24/10/2025 | Entrega de TP6 - TDD |
 
 
 🔖 **Formato de Identificación de Líneas Base**:  

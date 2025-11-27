@@ -74,7 +74,8 @@
 | **LB-G04-2** | 25/09/2025 | Entrega de TP7 - SCRUM |
 | **LB-G04-3** | 24/10/2025 | Entrega de TP6 - TDD |
 | **LB-G04-4** | 05/11/2025 | Entrega de TP11 - TESTING  |
-
+| **LB-G04-5** | 05/11/2025 | Entrega de TP12 - KANBAN  |
+| **LB-G04-6** | 05/11/2025 | Entrega de TP14 y TP 5 - Design Thinking y Evaluación del Repositorio  |
 
 
 🔖 **Formato de Identificación de Líneas Base**:  
